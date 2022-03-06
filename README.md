@@ -17,10 +17,12 @@
 
 <h1 align="center"> ☁️ Como utilizar? ☁️</h1>
 <p> - O uso desta API é muito simples: no local de inserção de dados, você deve digitar o nome da cidade que deseja consultar o clima. </p>
+<br>
 <p> Antes de inserir </p>
 <img align="center" src="https://cdn.discordapp.com/attachments/704805407906070581/950161963214852176/unknown.png" >
+<br>
 <p> Após inserção e consulta </p>
 <img align="center" src="https://cdn.discordapp.com/attachments/704805407906070581/950162659431567360/unknown.png" >
-
+<br>
 <h1 align="center"> ☁️ Link para visualização ☁️</h1>
-<p> https://matheussouza70.github.io/API-Temperatura/ </p>
+<p> - https://matheussouza70.github.io/API-Temperatura/ </p>
